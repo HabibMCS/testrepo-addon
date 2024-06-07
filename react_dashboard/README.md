@@ -67,10 +67,6 @@ Feel free to contribute or provide feedback, but keep in mind that significant c
 
 ### ... tbd
 
-## How To Use
-
-Install with HACS TBD...
-
 ## Credits
 
 This software uses the following open source packages:

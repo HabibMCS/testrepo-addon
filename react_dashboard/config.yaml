@@ -1,5 +1,5 @@
 ---
-version: 0.0.1
+version: 0.0.2
 slug: react_dashboard
 name: React Dashboard
 description: Fully customizable Dashboard for your Home Assistant made in React
@@ -11,6 +11,7 @@ arch:
   - amd64
   - i386
 homeassistant_api: true
+panel_admin: false
 hassio_api: true
 ingress: true
 ingress_stream: true
