@@ -7,6 +7,5 @@ WORKDIR /app
 COPY app /app
 
 RUN npm install
-RUN npm install --include=optional sharp
 RUN chmod +x start-addon.sh
 CMD ["./start-addon.sh"]
